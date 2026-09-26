@@ -1,0 +1,2 @@
+event_id,event_name,event_type,event_date,location,registered,attended,completed,applications,selected,women,men,enterprises,universities,projects,notes,source_file
+OD_EXAMPLE,Example Open Day,Open Day,2026-01-15,Tunis,100,82,,,45,37,8,3,2,Replace/delete this example; do not copy it into official data unless real,data/events/example.pdf

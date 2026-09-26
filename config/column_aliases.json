@@ -1,0 +1,127 @@
+{
+  "participant_name": [
+    "name",
+    "full name",
+    "participant",
+    "participant name",
+    "nom",
+    "nom et prénom",
+    "nom et prenom",
+    "nom prenom",
+    "prénom",
+    "prenom"
+  ],
+  "gender": [
+    "gender",
+    "sex",
+    "sexe",
+    "genre"
+  ],
+  "email": [
+    "email",
+    "e-mail",
+    "mail",
+    "adresse email",
+    "courriel"
+  ],
+  "phone": [
+    "phone",
+    "telephone",
+    "téléphone",
+    "tel",
+    "mobile"
+  ],
+  "institution": [
+    "institution",
+    "organisation",
+    "organization",
+    "university",
+    "université",
+    "universite",
+    "établissement",
+    "etablissement",
+    "company",
+    "entreprise"
+  ],
+  "region": [
+    "region",
+    "région",
+    "gouvernorat",
+    "governorate",
+    "ville",
+    "city"
+  ],
+  "event_name": [
+    "event",
+    "event name",
+    "activity",
+    "activity name",
+    "événement",
+    "evenement",
+    "activité",
+    "activite",
+    "session"
+  ],
+  "event_date": [
+    "date",
+    "event date",
+    "date evenement",
+    "date événement",
+    "date activité",
+    "date activite"
+  ],
+  "registered": [
+    "registered",
+    "registration",
+    "inscrit",
+    "inscrite",
+    "inscrits",
+    "registrations"
+  ],
+  "attended": [
+    "attended",
+    "attendance",
+    "present",
+    "présent",
+    "presente",
+    "présente",
+    "presence",
+    "présence"
+  ],
+  "completed": [
+    "completed",
+    "completion",
+    "terminé",
+    "termine",
+    "achevé",
+    "acheve",
+    "certified",
+    "certificate"
+  ],
+  "selected": [
+    "selected",
+    "selection",
+    "sélectionné",
+    "selectionne",
+    "retenu",
+    "retenue"
+  ],
+  "application": [
+    "application",
+    "applicant",
+    "candidature",
+    "candidat"
+  ],
+  "project_name": [
+    "project",
+    "project name",
+    "projet",
+    "nom du projet"
+  ],
+  "enterprise": [
+    "enterprise",
+    "company",
+    "entreprise",
+    "business"
+  ]
+}

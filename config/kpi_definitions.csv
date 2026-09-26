@@ -1,0 +1,17 @@
+kpi,label,formula,primary_source,notes
+applications,Applications received,Count of valid application records,applications/*.xlsx,Report by cohort and location when available
+selected,Selected applicants,Count of applicants marked selected,applications/ + selection evidence,Only if selection evidence exists
+registered,Registered participants,Count of validated participant records,Training/event registration sheets,Do not infer from signatures alone unless reviewed
+attended,Participants attended,Count of validated attendees,Attendance sheets / signed event lists,Can be participant-level or validated event-level aggregate
+attendance_rate,Attendance rate,Attended / Registered * 100,Registration + attendance evidence,State denominator for each activity
+completed,Participants completed,Count of validated completions,Training completion/closing records,Use only where completion is evidenced
+completion_rate,Completion rate,Completed / Registered * 100 or Completed / Selected * 100,Training records,Choose denominator according to programme methodology and document it
+women,Women participants,Count of validated participants recorded as women,Registration/application records,Use known-gender denominator for percentage
+female_share,Female participation,Women / Participants with known gender * 100,Registration/application records,Do not treat unknown gender as male
+institutions,Institutions represented,Count of distinct validated institutions,Applications / attendance forms,Normalize institution names first
+regions,Regions represented,Count of distinct validated regions/governorates,Applications / attendance forms,Normalize spelling first
+ecosystem_actors,Ecosystem actors reached,Count of validated ecosystem participants,ecosystem_trainings + relevant open days,Define actor categories if available
+students_trained,Students trained,Count of unique validated students attending student trainings,student_trainings,Prefer deduplicated participant-level data
+open_day_attendance,Open Day attendance,Count of validated attendees at Open Day activities,opendays,Keep event and closing-day subtypes distinct
+testing_participants,TalentVerse testing participants,Count of unique validated testers,talentverse_testing_sessions,Deduplicate across testing sessions if reporting unique people
+events_implemented,Activities implemented,Count of distinct validated activities,All evidence folders,Use event/date/location identity rather than number of files
